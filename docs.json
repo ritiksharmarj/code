@@ -14,7 +14,7 @@
         "tab": "Documentation",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Get started",
             "pages": [
               "index",
               "quickstart"
@@ -49,10 +49,7 @@
      "view",
      "chatgpt",
      "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
+     "perplexity"
    ]
   },
   "footer": {
@@ -65,20 +62,15 @@
   "appearance": {
     "default": "system"
   },
-  "fonts": {
-    "family": "Inter",
-    "weight": 400,
-    "format": "woff2",
-    "heading": {
-      "family": "Source Sans Pro",
-      "weight": 600
-    },
-    "body": {
-      "family": "Inter",
-      "weight": 400
-    }
-  },
   "icons": {
     "library": "fontawesome"
+  },
+  "fonts": {
+    "heading": {
+      "family": "Google Sans"
+    },
+    "body": {
+      "family": "Inter"
+    }
   }
 }
